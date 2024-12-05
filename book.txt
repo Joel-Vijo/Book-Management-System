@@ -1,0 +1,7 @@
+00001|The Great Gatsby|F.Scott Fitzgerald|Society|11|0
+00002|The Ginger Man|J.P. Donleavy|Classic|7|0
+00003|Percy Jackson|Rick Riodan|Fiction|8|3
+00004|Harry Potter|J.K Rowling|Fiction|13|1
+00005|Maze Runner|James Dashner|Science Fiction|10|0
+00006|Pride and Prejudice|Jane Austen|Society|10|1
+00007|Death on the Nile|Agatha Christie|Mystery|9|0

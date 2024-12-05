@@ -1,0 +1,8 @@
+Rahul Sharma|Harry Potter|05/05/20|20/05/00
+Krunal Patil|Pride and Prejudice|12/05/20|23/05/20
+Rahul Sharma|Percy Jackson|16/05/20|00/00/00
+Deepak Singh|Percy Jackson|29/05/20|00/00/00
+Joel Vijo|The Great Gatsby|06/05/20|20/05/20
+Ayush Patel|Harry Potter|28/05/20|00/00/00
+Joel Vijo|Percy Jackson|06/05/20|00/00/00
+Rahul Sharma|Pride and Prejudice|14/05/20|00/00/00
